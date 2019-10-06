@@ -1,1 +1,3 @@
-Testing the marvelous git tool
+Testing the marvelous git tool.
+
+Let's gonna try to do some changes and see wtf happens.
